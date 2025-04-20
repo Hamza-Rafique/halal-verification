@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+pytesseract
+opencv-python
+numpy
+
