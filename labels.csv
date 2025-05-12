@@ -1,0 +1,20 @@
+image,description,ingredients,formula,label
+/dataset/halal/halal1.jpeg,Grilled Chicken Breast,chicken,protein+water+grill,halal
+/dataset/halal/halal2.webp,Fruit Salad,apple;banana;orange;grapes,natural+fruits,halal
+/dataset/halal/halal3.jpg,Vegetable Biryani,rice;carrot;potato;peas;spices,carb+veg+spices,halal
+halal4.jpg,Beef Steak,beef;salt;pepper;olive oil,protein+grilled,halal
+halal5.jpg,Hummus,chickpeas;lemon;garlic;olive oil,veg+paste,halal
+halal6.jpg,Vegetable Stir Fry,broccoli;carrot;bell pepper;soy sauce,veg+soy,halal
+halal7.jpg,Quinoa Salad,quinoa;chickpeas;spinach;lemon juice,carb+veg+natural,halal
+halal8.jpg,Grilled Salmon,salmon;lemon;herbs,protein+natural,halal
+halal9.jpg,Chickpea Curry,chickpeas;spices;coconut milk,veg+spices+natural,halal
+halal10.jpg,Greek Yogurt with Honey,yogurt;honey,natural+dairy,halal
+halal11.jpg,Vegetable Soup,carrot;celery;onion;broth,veg+natural,halal
+halal12.jpg,Chicken Salad,chicken;lettuce;tomato;olive oil,protein+veg+natural,halal
+
+/dataset/haram/haram1.jpg,Pepperoni Pizza,pork;cheese;tomato;flour,pork+carb,haram
+/dataset/haram/haram2.jpeg,Bacon Cheeseburger,pork bacon;cheese;beef;bread,pork+dairy+carb,haram
+/dataset/haram/haram3.jpg,Beer-marinated Chicken,chicken;beer;spices,alcohol+protein,haram
+/dataset/haram/haram4.jpeg,Chocolate with Rum,dark chocolate;rum,sugar+alcohol,haram
+/dataset/haram/haram5.jpeg,Pork Ribs,pork;bbq sauce;salt,pork+marinated,haram
+/dataset/haram/haram6.jpeg,Red Wine Pasta,pasta;red wine;cheese,carb+alcohol+dairy,haram

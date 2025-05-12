@@ -4,4 +4,6 @@ pillow
 pytesseract
 opencv-python
 numpy
-
+tensorflow
+pandas
+matplotlib
