@@ -1,4 +1,16 @@
 venv
 .venv
 dataset
-model
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.csv
+*.json
+*.xml
+*.parquet
+query_results
+*.xlsx
