@@ -6,6 +6,7 @@ import numpy as np
 from PIL import Image
 import io
 from fastapi.middleware.cors import CORSMiddleware
+import os
 
 app = FastAPI()
 
@@ -16,7 +17,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 model = load_model("model/halal_haram_classifier.h5")
 IMAGE_SIZE = (224, 224)
 
