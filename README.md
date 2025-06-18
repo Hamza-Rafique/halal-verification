@@ -1,5 +1,7 @@
 ## 🕌 𝗜𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗯𝘆 𝘁𝗵𝗲 𝗤𝘂𝗿𝗮𝗻:
-```bash "And eat of what Allah has provided for you [which is] lawful and good. And fear Allah, in whom you are believers."
+```bash
+وَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ
+"And eat of what Allah has provided for you [which is] lawful and good. And fear Allah, in whom you are believers."
 ```
 — 𝗤𝘂𝗿𝗮𝗻 𝟱:𝟴𝟴
 
