@@ -40,3 +40,8 @@ Images are organized in folders `halal/` and `haram/`, and accompanied by a `lab
 ## Future Work
 - NLP classification using food ingredients or descriptions
 - Multilingual support for labeling
+
+  ## 👥 Contributors  
+<a href="https://github.com/Hamza-Rafique/halal-verification/graphs/contributors">  
+  <img src="https://contrib.rocks/image?repo=Hamza-Rafique/halal-verification" />  
+</a>  
