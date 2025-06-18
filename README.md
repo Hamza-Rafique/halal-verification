@@ -1,4 +1,9 @@
-# ===================
+## 🕌 𝗜𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗯𝘆 𝘁𝗵𝗲 𝗤𝘂𝗿𝗮𝗻:
+```bash "And eat of what Allah has provided for you [which is] lawful and good. And fear Allah, in whom you are believers."
+```
+— 𝗤𝘂𝗿𝗮𝗻 𝟱:𝟴𝟴
+
+
 # Halal vs Haram Food Classifier
 
 A deep learning model to classify food images as **Halal** or **Haram** using EfficientNet.
