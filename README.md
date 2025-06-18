@@ -14,6 +14,11 @@ A deep learning model to classify food images as **Halal** or **Haram** using Ef
 - EfficientNetB0-based image classifier
 - Dataset with images and `labels.csv` for halal/haram labeling
 - Prediction script for new images
+  
+##📦 Datasets (Help Improve Accuracy!)
+Image Dataset: Kaggle - Halal/Haram Images https://www.kaggle.com/datasets/hamzamehar/data-set-halal-and-haram
+
+CSV Labels: Kaggle - Halal/Haram Metadata  https://www.kaggle.com/datasets/hamzamehar/halal-vs-haram-csv-data
 
 ## Installation
 ```bash
